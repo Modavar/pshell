@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 This is some text
 Adding this change on the dev branch -- what a sweet new feature
+=======
+Adding this change on the main branch
+Adding even more sweet new stuff to Dev branch
+>>>>>>> Stashed changes
